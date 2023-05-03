@@ -6,9 +6,13 @@ a partial requirement for the ETH PROOF: Intermediate EVM Course.
 ## Description
 
 This program is written in JavaScript and CSS. The program has four functions:
+
 connectWalletHandler - For connecting the metamask wallet 
+
 AccoutChangedHandler - Chainging account from metamask can cause this function to work 
+
 chainChangedHandler - Chainging the chain network in the metamask can cause this function to work 
+
 getAccountBalance - Get the Balance of the token/coin in your metamask wallet.
 
 ## Getting Started
@@ -22,6 +26,7 @@ Click "New Workspace" button and paste this link: https://github.com/iswinternea
 Create a terminal and type these commands
 
 npm install
+
 npm start
 
 This will redirect you to a new tab with the localhost:3000.
